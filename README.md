@@ -5,7 +5,7 @@ The custom meme generation tool offered by your CATCOUGH team for seamless meme 
 <img src="assets/memeGen.jpg" alt="CatCough Meme Generator" height="400px" width="550px">
 
 
-### Find Us Online
+## Find Us Online
 
 <img src="assets/catcougher.jpg" alt="CatCough" height="20px"> Telegram
 
@@ -19,6 +19,4 @@ The custom meme generation tool offered by your CATCOUGH team for seamless meme 
 
 ## License
 
-https://img.shields.io/github/license/angeleefshaw/CATCOUGH-meme-tool?logoColor=yellow
-
-[MIT](https://choosealicense.com/licenses/mit/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
