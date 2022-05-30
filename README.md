@@ -6,7 +6,7 @@ The custom meme generation tool offered by your CATCOUGH team for seamless meme 
 
 Simply upload a photo, click 'Go To Meme Generator', and start creating!
 
-<img src="assets/important-coughing.jpg" alt="CatCough Meme Generator" height="200px" width="350px">
+<img src="assets/important-coughing.jpg" alt="CatCough Meme Generator" height="400px" width="550px">
 
 
 ## Find Us Online
