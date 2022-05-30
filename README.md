@@ -2,7 +2,7 @@
 
 The custom meme generation tool offered by your CATCOUGH team for seamless meme creation.
 
-<img src="assets/memeGen.jpg" alt="CatCough Meme Generator" height="400px" width="550px">
+<img src="assets/memeGen.jpg" alt="CatCough Meme Generator" height="550px" width="750px">
 
 Simply upload a photo, click 'Go To Meme Generator', and start creating!
 
