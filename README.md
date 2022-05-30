@@ -1,4 +1,4 @@
-# CATCOUGH Meme Gen Site!
+# CATCOUGH Meme Generator!
 
 The custom meme generator tool offered by your CATCOUGH team for seamless meme creation.
 
